@@ -6,6 +6,6 @@ import sitemap from '@astrojs/sitemap';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https:/astroBlog.github.io/',
-	base: 'https://a-juran.github.io/astroBlog.github.io/',
+	base: '/',
 	integrations: [mdx(), sitemap()],
 });
