@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/post.astro
 title: 列举一下已经过半的2024都做了些什么？
-description: Aria is a template for Astro
-dateFormatted: Jun 6th, 2024
+description: 已经过半的2024都做了些什么……
+dateFormatted: July 9, 2024
 ---
 
 &emsp;因为并把所有时间及精力都放在工作和自己爱好上，原来购买的服务器及域名因为长期未打理并且还要隔一段时间进行续费，几乎就放弃了对之前博客的管理，导致所有的博客数据丢失，所以已经很久没有写博客了。
